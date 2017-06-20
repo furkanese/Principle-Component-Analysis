@@ -1,7 +1,5 @@
 '''
 MUSTAFA FURKAN ESEOGLU
-16501034
-MACHINE LEARNING HW2
 '''
 from __future__ import division
 import numpy as np
